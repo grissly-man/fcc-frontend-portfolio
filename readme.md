@@ -1,4 +1,4 @@
-Current demonstration (in progress): [grissly-man.github.io/fcc-frontend-portfolio/](grissly-man.github.io/fcc-frontend-portfolio/)
+Current demonstration (in progress): [https://grissly-man.github.io/fcc-frontend-portfolio/](https://grissly-man.github.io/fcc-frontend-portfolio/)
 
 ## FreeCodeCamp Instructions:
 
