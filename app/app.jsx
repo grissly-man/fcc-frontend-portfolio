@@ -9,7 +9,6 @@ var styles = {
         left: '0px',
         width: '100%',
         height: '100%',
-        backgroundColor: 'orange',
         padding: '0px',
         margin: '0px',
         fontFamily: '"Century Gothic", Monaco, sans-serif'

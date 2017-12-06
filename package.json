@@ -1,7 +1,7 @@
 {
   "name": "free-code-camp-portfolio",
   "version": "1.0.0",
-  "description": "A javascript calculator that can perform compound arithmetic operations, and accurately display the total to the user",
+  "description": "A portfolio of my development projects and work experience",
   "main": "index.js",
   "scripts": {
     "test": "npm test",
@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grissly-man/js-calculator.git"
+    "url": "git+https://github.com/grissly-man/fcc-frontend-portfolio.git"
   },
   "keywords": [
     "freecodecamp",
-    "calculator",
+    "portfolio",
     "front-end",
     "react",
     "javascript"
@@ -22,9 +22,9 @@
   "author": "Logan Griswold",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/grissly-man/js-calculator/issues"
+    "url": "https://github.com/grissly-man/fcc-frontend-portfolio/issues"
   },
-  "homepage": "https://github.com/grissly-man/js-calculator#readme",
+  "homepage": "https://grissly-man.github.io/fcc-frontend-portfolio/",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
